@@ -1,0 +1,1 @@
+geth --identity "song" --verbosity 3 --http --http.corsdomain "*" --port "30444" --http.api "db,eth,miner,net,web3" --networkid 3

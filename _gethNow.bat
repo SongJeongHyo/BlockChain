@@ -1,0 +1,1 @@
+geth --identity "song" --allow-insecure-unlock --datadir .\eth --http --http.addr "localhost" --http.port "8445" -http.corsdomain "*" --port "38445" --http.api "admin, db, eth, debug, miner, net, shh, txpool, personal, web3" --networkid 33 
